@@ -12,7 +12,7 @@ function App() {
             <div className="container">
                 <div className="row">
                     <div className="col-4">
-                        <a className="cs-logo">3D Buddies</a>
+                        {/* <a className="cs-logo">3D Buddies</a> */}
                     </div>
                 </div>
             </div>
